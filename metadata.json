@@ -1,0 +1,6 @@
+{
+  "name": "Smart Deadline Collision Detector",
+  "description": "Intelligent productivity and academic planning application that detects overlapping deadlines, workload conflicts, urgency levels, and generates optimized schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
